@@ -1,0 +1,27 @@
+.bookmark .icon-box{
+    padding: 10px;
+    font-size: 33px;
+}
+
+.bookmark .icon-box i{
+    font-size: 30px;
+    color: black;
+
+}
+
+.bookmark{
+    position: relative;
+}
+
+.bookmark .item-count{
+    position: absolute;
+    top: 8px;
+    right: -9px;
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 18px;
+    color: whitesmoke;
+}
